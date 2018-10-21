@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1045990022393",
+    "firebase_url": "https://krchatdb.firebaseio.com",
+    "project_id": "krchatdb",
+    "storage_bucket": "krchatdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045990022393:android:5b5088c12a96312d",
+        "android_client_info": {
+          "package_name": "com.cse437.krchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045990022393-crp72ni5c1ppcju2tbiev8vb2emo7fvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZIzgQ1dfxELManGq8g6T0YaIVvQ9VIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
